@@ -1,20 +1,15 @@
 ### подумать ещё
 on_new_consort|on_queen_death - оживить?
 on_barrage - магический бараж - ?
-on_gain_great_power_status - ?
 on_tech_taken
 уникальный контент войн объединения
 on_institution_embracement
 on_new_age
-трибутарии тел?
-on_added_to_trade_company
-on_center_of_trade_upgrade
 
 ### типо реализовано(будет реализовано вне миссий)
 on_alliance_broken - подписка на трупов кончилась
 on_new_monarch|on_new_heir - как со временем короли лучше думают
 on_alliance_created - ивент после публикации о том как мы рады заиметь союзника в эти тяжелые времена
-on_revoke_estate_land - восстание мб
 on_siege_lost_country - люди радуются освободителям
 on_province_owner_change - люди недовольны таким правителем
 on_core - люди успокоились?
@@ -34,4 +29,3 @@ on_expanded_infrastructure - начать стройку кладбища
 	собо вкусные люди
 	вампирские игры
 грейтайд
-копить трупы разных рас и использовать их
